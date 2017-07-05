@@ -1,3 +1,5 @@
+**Motivation: I just wanted to put a flag in the background of my avatar on facebook but I wanted everyone to be able to do it so I made some scripts to do it automagically**
+
 # fb-auto-bg-flag
 - WIP: add a background flag to your facebook avatar
 
